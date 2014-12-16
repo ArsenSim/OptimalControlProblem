@@ -3,7 +3,7 @@ OptimalControlProblem
 
 Dynamic solution for an OptimalControl Problem
 
-This program, written in java, finds dynamic solution to the Optimal Control Problem.
+This program, written in Java, finds dynamic solution to the Optimal Control Problem.
 Basically you have a directed graph with each arc having a cost function, which represents the cost of 
 the jump. You start at node 0 and at each point of time you have to jump somewhere and you have to
 decide where is it better to do so by comparing cost functions and finding the one that has minimal value
